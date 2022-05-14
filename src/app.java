@@ -1,4 +1,4 @@
-package hitachi;
+package hitachi1;
 /**
  * Hello world!
  *
